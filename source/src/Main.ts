@@ -208,7 +208,6 @@ class Main extends egret.DisplayObjectContainer {
 		//GUI components must be within the container, UIStage will always remain the same as stage size automatically.
 		this.guiLayer = new egret.gui.UIStage();
 		this.addChild(this.guiLayer);
-
 		this.test();
 	}
 
@@ -227,7 +226,6 @@ class Main extends egret.DisplayObjectContainer {
 		resetBtn.name = "reset";
 		resetBtn.label = "reset";
 		resetBtn.x = runBtn.x + runBtn.width + 10;
-		;
 		resetBtn.y = 530;
 		resetBtn.width = 150;
 		resetBtn.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onResetButtonClick, this);
