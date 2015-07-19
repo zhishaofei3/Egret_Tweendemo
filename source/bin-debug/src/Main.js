@@ -59,9 +59,7 @@ var Main = (function (_super) {
         var x_ = this.xSlider.getValue();
         var y_ = this.ySlider.getValue();
         var scaleX_ = this.scaleXSlider.getValue() / 100;
-        ;
         var scaleY_ = this.scaleYSlider.getValue() / 100;
-        ;
         var rotation_ = this.rotationSlider.getValue();
         var alpha_ = this.alphaSlider.getValue() / 100;
         var obj = { x: this.jian_png.x + x_, y: this.jian_png.y + y_, alpha: alpha_, rotation: rotation_, scaleX: scaleX_, scaleY: scaleY_ };
@@ -101,7 +99,7 @@ var Main = (function (_super) {
         //Config loading process interface
         //设置加载进度界面
         this.loadingView = new LoadingUI();
-        this.loadingView.x = (egret.StageDelegate.getInstance()._stageWidth - this.loadingView.width) >> 1; //设置进度条居中
+        this.loadingView.x = (egret.StageDelegate.getInstance()._stageWidth - this.loadingView.width) / 2; //设置进度条居中
         this.stage.addChild(this.loadingView);
         // initialize the Resource loading library
         //初始化Resource资源加载库
@@ -133,9 +131,9 @@ var Main = (function (_super) {
         }
     };
     /**
-    * 资源组加载出错
+     * 资源组加载出错
      * Resource group loading failed
-    */
+     */
     __egretProto__.onResourceLoadError = function (event) {
         //TODO
         console.warn("Group:" + event.groupName + " has failed to load");

@@ -131,7 +131,7 @@ class Main extends egret.DisplayObjectContainer {
 		//Config loading process interface
 		//设置加载进度界面
 		this.loadingView = new LoadingUI();
-		this.loadingView.x = (egret.StageDelegate.getInstance()._stageWidth - this.loadingView.width) >> 1; //设置进度条居中
+		this.loadingView.x = (egret.StageDelegate.getInstance()._stageWidth - this.loadingView.width) / 2; //设置进度条居中
 		this.stage.addChild(this.loadingView);
 		// initialize the Resource loading library
 		//初始化Resource资源加载库
@@ -196,7 +196,6 @@ class Main extends egret.DisplayObjectContainer {
 	 * Create scene interface
 	 */
 	private createScene():void {
-
 		//游戏场景层，游戏场景相关内容可以放在这里面。
 		//Game scene layer, the game content related to the scene can be placed inside this layer.
 		this.gameLayer = new egret.DisplayObjectContainer();
@@ -215,8 +214,6 @@ class Main extends egret.DisplayObjectContainer {
 
 
 	private createChildren():void {
-
-
 		var runBtn:egret.gui.Button = new egret.gui.Button();
 		runBtn.name = "run";
 		runBtn.label = "start";
