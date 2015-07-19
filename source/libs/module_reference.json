@@ -1,0 +1,2070 @@
+{
+	"referenceInfoList": {
+		"d:/Egret/EgretEngine/win/egret/src/egret/i18n/cn.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Ticker.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Timer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/setTimeout.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/BitmapFont.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/devices/HTML5DeviceContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/extends.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/i18n/cn.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/IHashObject.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/IHashObject.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/Recycler.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/getTimer.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/RenderCommand.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/player/RenderContext.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IEventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Recycler.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/events/HTTPStatusEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IEventDispatcher.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/events/SoundEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/events/FocusEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/events/IOErrorEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IEventDispatcher.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/events/TouchEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Point.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IEventDispatcher.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/events/TimerEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IEventDispatcher.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/events/TextEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IEventDispatcher.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/events/ProgressEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IEventDispatcher.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/events/EventPhase.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/events/IEventDispatcher.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/IHashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IEventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Profiler.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/TouchContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/net/NetContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/devices/DeviceContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Stage.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Ticker.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/RenderCommand.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Recycler.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/Profiler.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Ticker.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getTimer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/Ticker.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/setTimeout.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getTimer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/layout/HorizontalAlign.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/layout/VerticalAlign.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/Timer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getTimer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Ticker.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/TimerEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/getQualifiedClassName.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/getDefinitionByName.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/setTimeout.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Ticker.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/setInterval.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Ticker.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/hasDefinition.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getDefinitionByName.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/toColorString.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Point.ts",
+			"d:/Egret/EgretEngine/win/egret/src/jslib/NumberUtils.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/geom/Point.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/jslib/NumberUtils.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Point.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/geom/ColorTransform.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/geom/Transform.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/ColorTransform.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/SAXParser.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Browser.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RenderFilter.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/Injector.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getQualifiedClassName.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/filters/BitmapFilterQuality.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/filters/Filter.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/filters/BlurFilter.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/Filter.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/filters/ColorMatrixFilter.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/Filter.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/filters/GlowFilter.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/Filter.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/filters/DropShadowFilter.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/GlowFilter.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/BlendMode.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectProperties.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Stage.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/Filter.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectPrivateProperties.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/RenderTexture.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectProperties.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectPrivateProperties.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RenderFilter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Point.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/RenderTexture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RenderFilter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/jslib/NumberUtils.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/ColorMatrixFilter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/RenderCommand.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Stage.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/Filter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Transform.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectContainer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/RenderCommand.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/StageScaleMode.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/Stage.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/StageScaleMode.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/ScrollViewProperties.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Point.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/TouchEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/tween/Tween.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/ScrollView.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/ScrollViewProperties.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Timer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getTimer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/tween/Tween.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/tween/Ease.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/TouchEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/TimerEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/BitmapFillMode.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/Bitmap.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RenderFilter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RenderFilter.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/text/BitmapText.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/BitmapFont.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RenderFilter.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/GradientType.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/Graphics.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/player/RenderContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/GradientType.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/Shape.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Graphics.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/Sprite.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Graphics.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldUtils.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldType.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/layout/HorizontalAlign.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/layout/VerticalAlign.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldProperties.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldProperties.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/InputController.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldType.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Graphics.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/TouchEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/TextEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/toColorString.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldUtils.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/text/HtmlTextParser.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldType.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/SpriteSheet.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/text/InputController.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/display/StageText.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/TouchEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/FocusEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Stage.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/text/BitmapFont.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/SpriteSheet.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/MovieClip.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RenderFilter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/MovieClipData.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/FrameLabel.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Ticker.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/FrameLabel.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/MovieClipData.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/SpriteSheet.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/FrameLabel.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/MovieClipDataFactory.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/SpriteSheet.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/MovieClipData.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/display/StageText.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequestMethod.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoaderDataFormat.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/net/URLVariables.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequestHeader.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequest.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequestMethod.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequestHeader.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoader.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequest.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoaderDataFormat.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/PromiseObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Browser.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/display/RenderTexture.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RenderFilter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Profiler.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/Filter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/BlendMode.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/InteractionMode.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/TouchContext.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/TouchEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/net/NetContext.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequest.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequestMethod.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLVariables.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/devices/DeviceContext.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/external/ExternalInterface.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/Browser.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/localStorage/localStorage.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/XML.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/SAXParser.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/ByteArray.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/utils/getOption.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/tween/Tween.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Ticker.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/tween/Ease.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/media/IAudio.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/media/Sound.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/SoundEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/media/IAudio.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/jslib/NumberUtils.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/PromiseObject.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/net/IVersionController.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/devices/HTML5DeviceContext.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getTimer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/devices/DeviceContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/HTML5CanvasRenderer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Browser.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getTimer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/BlendMode.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldProperties.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Graphics.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RenderFilter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Stage.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/toColorString.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/IWebGLTemplate.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/RenderTexture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/IWebGLTemplate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RenderFilter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldProperties.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldType.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Browser.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/BlendMode.ts",
+			"d:/Egret/EgretEngine/win/egret/src/jslib/NumberUtils.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Graphics.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/WebGLShaderManager.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/HTML5CanvasRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Stage.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/Filter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/DropShadowFilter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getTimer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Profiler.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/ColorTransformShader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/BlurShader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/BlurFilter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/ColorMatrixFilter.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/WebGLUtils.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/EgretShader.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/WebGLUtils.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/ColorTransformShader.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/EgretShader.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/BlurShader.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/EgretShader.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/PrimitiveShader.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/WebGLUtils.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/WebGLShaderManager.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/EgretShader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/PrimitiveShader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/ColorTransformShader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/BlurShader.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/net/HTML5NetContext.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/net/IVersionController.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Html5Capatibility.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/setTimeout.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/setTimeout.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/net/NetContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoaderDataFormat.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Html5Capatibility.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequest.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequestMethod.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLVariables.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/HTTPStatusEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IOErrorEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/audio/Html5Audio.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/media/Sound.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/audio/QQAudio.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/audio/WebAudio.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/HTML5TouchContext.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Browser.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/TouchContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/display/HTML5StageText.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Point.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/display/HTML5StageText.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldProperties.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Browser.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/display/StageText.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/audio/Html5Audio.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/media/IAudio.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Html5Capatibility.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/Html5Capatibility.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/audio/WebAudio.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/media/IAudio.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/audio/QQAudio.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/media/Sound.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/media/IAudio.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/Html5Capatibility.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/audio/Html5Audio.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/audio/QQAudio.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/audio/WebAudio.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/external/ExternalInterface.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/RenderTexture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/NativeRendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getOption.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/NativeRendererContext.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/jslib/NumberUtils.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/BlendMode.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldProperties.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Graphics.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/Filter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/DropShadowFilter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/RenderTexture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/filters/ColorMatrixFilter.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/NativeTouchContext.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/TouchContext.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/net/NativeNetContext.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/net/IVersionController.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/PromiseObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequestHeader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IOErrorEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/media/Sound.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/net/NetContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoaderDataFormat.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequest.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequestMethod.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLVariables.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/audio/NativeAudio.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/display/NativeStageText.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Shape.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/layout/HorizontalAlign.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Stage.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/display/StageText.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/net/NativeResourceLoader.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/PromiseObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/ProgressEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IOErrorEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/egret/context/audio/NativeAudio.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/media/Sound.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/net/NativeNetContext.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/PromiseObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/media/IAudio.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/oldVersion/NativeVersionController.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/net/NativeResourceLoader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IOErrorEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/context/net/IVersionController.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/events/ResourceEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IEventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceConfig.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceLoader.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Injector.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/events/ResourceEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/AnalyzerBase.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/AnalyzerBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceConfig.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/BinAnalyzer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequest.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoaderDataFormat.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Recycler.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/IOErrorEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/AnalyzerBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/ImageAnalyzer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoaderDataFormat.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/JsonAnalyzer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoaderDataFormat.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/TextAnalyzer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoaderDataFormat.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/BinAnalyzer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/SheetAnalyzer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoaderDataFormat.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/AnalyzerBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/SpriteSheet.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/FontAnalyzer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/BitmapFont.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/SheetAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/SoundAnalyzer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoaderDataFormat.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/media/Sound.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/XMLAnalyzer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoaderDataFormat.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/XML.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Injector.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/AnalyzerBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceLoader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/BinAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/ImageAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/TextAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/JsonAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/SheetAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/FontAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/SoundAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/XMLAnalyzer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceConfig.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/resource/events/ResourceEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ICollection.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ArrayCollection.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ICollection.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEventKind.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ITreeCollection.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ICollection.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ObjectCollection.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ICollection.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ITreeCollection.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEventKind.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/LayoutManager.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/layoutClass/DepthQueue.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/ILayoutManagerClient.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIGlobals.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/layoutClass/DepthQueue.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/ILayoutManagerClient.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IAssetAdapter.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IDisplayText.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IUIComponent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IEditableText.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IDisplayText.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IFactory.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IInvalidateDisplay.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IInvalidating.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ISkin.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ISkinAdapter.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ISkinnableClient.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStateClient.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStyleClient.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IUIComponent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IUIStage.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IViewport.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IViewStack.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElementContainer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/ILayoutManagerClient.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/IPopUpManager.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIGlobals.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/LayoutManager.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IUIStage.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponentProperties.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponentProperties.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IUIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/ILayoutManagerClient.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IInvalidating.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStyleClient.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIGlobals.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/MoveEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ResizeEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/PopUpPosition.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ScrollPolicy.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ClassFactory.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IFactory.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/NavigationUnit.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/IOverride.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStateClient.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/OverrideBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/IOverride.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStateClient.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/AddItems.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/OverrideBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStateClient.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/SetProperty.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/OverrideBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/SetStyle.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/OverrideBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/State.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/IOverride.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStateClient.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/utils/LayoutUtil.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/utils/getScale9Grid.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/utils/setProperties.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/IEaser.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/EaseInOutBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/IEaser.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/Bounce.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/IEaser.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/Elastic.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/IEaser.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/Linear.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/IEaser.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/Power.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/EaseInOutBase.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/Sine.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/EaseInOutBase.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffect.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffect.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/interpolation/IInterpolator.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/interpolation/NumberInterpolator.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/interpolation/IInterpolator.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/RepeatBehavior.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Keyframe.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/IEaser.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/interpolation/IInterpolator.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/interpolation/NumberInterpolator.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Keyframe.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/SimpleMotionPath.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Keyframe.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Animation.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Timer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/TimerEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getTimer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/IEaser.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/Sine.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/RepeatBehavior.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/interpolation/IInterpolator.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Keyframe.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/EffectInstance.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Timer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getTimer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/TimerEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffect.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/EffectEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/TransformUtil.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Point.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/CompositeEffectInstance.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/EffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Animation.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/SimpleMotionPath.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/EffectEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/ParallelInstance.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Timer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/TimerEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/CompositeEffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Parallel.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/EffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/SequenceInstance.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/CompositeEffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Sequence.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/EffectInstance.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/AnimateInstance.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Timer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/TimerEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/EffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Animation.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/IEaser.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/interpolation/IInterpolator.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Keyframe.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/SimpleMotionPath.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/EffectEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/AnimateTransformInstance.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Point.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/AnimateInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Keyframe.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Animation.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/TransformUtil.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/FadeInstance.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/AnimateInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Keyframe.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Effect.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffect.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/EffectEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/CompositeEffect.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Effect.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/CompositeEffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Parallel.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/CompositeEffect.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/ParallelInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Effect.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Sequence.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/CompositeEffect.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/SequenceInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Effect.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Animate.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Effect.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/AnimateInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/IEaser.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/interpolation/IInterpolator.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/RepeatBehavior.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/EffectEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/AnimateTransform.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Point.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Animate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/AnimateTransformInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Parallel.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Effect.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Sequence.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/EffectEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Keyframe.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/Linear.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/CompositeEffect.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Move.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/AnimateTransform.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/AnimateTransformInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Rotate.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/AnimateTransform.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/AnimateTransformInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Scale.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/AnimateTransform.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/AnimateTransformInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Fade.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Animate.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/FadeInstance.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/InterruptionBehavior.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/Transition.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffect.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/InterruptionBehavior.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRendererOwner.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ITreeItemRenderer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/UIAsset.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IAssetAdapter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DefaultAssetAdapter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getQualifiedClassName.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ISkinAdapter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ISkinnableClient.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/Theme.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DefaultSkinAdapter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ISkin.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/SkinPartEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStateClient.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DefaultSkinAdapter.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ISkinAdapter.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DefaultAssetAdapter.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IAssetAdapter.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/Theme.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoader.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getQualifiedClassName.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getDefinitionByName.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/getQualifiedClassName.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/SkinBasicLayout.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Skin.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ButtonBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IDisplayText.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIGlobals.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ToggleButtonBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ButtonBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStateClient.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/TextBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IDisplayText.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/PropertyChangeEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/PropertyChangeEventKind.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/GroupBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IViewport.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/BasicLayout.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/PropertyChangeEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/PropertyChangeEventKind.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ItemRenderer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ButtonBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/TreeItemRenderer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ItemRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ITreeItemRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/UIAsset.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ToggleButtonBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/TreeEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/Range.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/TrackBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/Range.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Button.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ResizeEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIGlobals.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/TrackBaseEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/SliderBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/TrackBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Animation.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/TrackBaseEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/SimpleMotionPath.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/SkinnableTextBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IEditableText.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IDisplayText.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/EditableText.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStateClient.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Spacer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Label.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/TextBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/BitmapLabel.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IAssetAdapter.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IDisplayText.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DefaultAssetAdapter.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Rect.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Button.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ButtonBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/UIAsset.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ToggleSwitch.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ToggleButtonBase.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ToggleButton.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ToggleButtonBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/UIAsset.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/CheckBox.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ToggleButtonBase.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/RadioButtonGroup.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/RadioButton.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElementContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/RadioButton.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ToggleButtonBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/RadioButtonGroup.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Group.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/GroupBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElementContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ElementExistenceEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ViewStack.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Group.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IViewStack.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ICollection.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/BasicLayout.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ElementExistenceEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEventKind.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Skin.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStateClient.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ISkin.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/SkinBasicLayout.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElementContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ElementExistenceEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/State.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/Transition.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffect.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/EffectEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/InterruptionBehavior.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/StateChangeEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIGlobals.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/states/IOverride.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/CompositeEffect.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ButtonSkin.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Label.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/UIAsset.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Skin.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/DataGroup.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/GroupBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ClassFactory.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ItemRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRendererOwner.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IInvalidating.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/RendererExistenceEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IFactory.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ISkinnableClient.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ICollection.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEventKind.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/VerticalLayout.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableContainer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElementContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Group.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ElementExistenceEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableDataContainer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRendererOwner.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/DataGroup.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ICollection.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IFactory.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/RendererExistenceEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ListBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableDataContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/RendererExistenceEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/IndexChangeEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ListEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEventKind.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Panel.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IDisplayText.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/TitleWindow.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Panel.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/PopUpManager.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Button.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CloseEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIGlobals.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/utils/LayoutUtil.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Alert.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/TitleWindow.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/PopUpManager.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CloseEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IDisplayText.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Button.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ProgressBar.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/Range.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Label.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ProgressBarDirection.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Animation.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/SimpleMotionPath.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ResizeEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/MoveEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ProgressBarDirection.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/HSlider.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/SliderBase.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/HScrollBar.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/HSlider.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Animation.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/VSlider.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/SliderBase.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/VScrollBar.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/VSlider.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Animation.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/List.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ListBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/DataGroup.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/IndexChangeEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/RendererExistenceEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIGlobals.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ListEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/PopUpAnchor.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/PopUpPosition.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Animation.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IUIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/PopUpManager.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IInvalidating.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/SimpleMotionPath.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DropDownController.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ButtonBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIGlobals.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DropDownListBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/List.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DropDownController.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ButtonBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ICollection.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ListBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ListEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Tree.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/List.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ClassFactory.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/TreeItemRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ITreeCollection.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ITreeItemRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/RendererExistenceEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/TreeEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ICollection.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEventKind.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/DropDownList.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DropDownListBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IDisplayText.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/TabBarButton.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ToggleButtonBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/TabBar.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/List.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ListBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ICollection.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ViewStack.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/IndexChangeEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/TabBarButton.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/RendererExistenceEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ListEvent.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ScrollerProperties.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IViewport.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Animation.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Scroller.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ScrollerProperties.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/ScrollView.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/PropertyChangeEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/setTimeout.ts",
+			"d:/Egret/EgretEngine/win/egret/src/egret/utils/setTimeout.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElementContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IViewport.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/HScrollBar.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/VScrollBar.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ScrollPolicy.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Animation.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/SimpleMotionPath.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/EditableText.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldProperties.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/TextBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IEditableText.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IDisplayText.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IViewport.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/NavigationUnit.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/TextArea.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/SkinnableTextBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Scroller.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/EditableText.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/TextInput.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/SkinnableTextBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/EditableText.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/PropertyChangeEvent.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/PropertyChangeEventKind.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/MoveEvent.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ResizeEvent.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/SkinPartEvent.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CloseEvent.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEvent.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEventKind.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ElementExistenceEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/IndexChangeEvent.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ListEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/PopUpEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/RendererExistenceEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/StateChangeEvent.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/TrackBaseEvent.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/TreeEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ITreeItemRenderer.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/EffectEvent.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/GroupBase.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/BasicLayout.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/ColumnAlign.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/RowAlign.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/TileOrientation.ts": [],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/VerticalLayout.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/HorizontalLayout.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/TileLayout.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/ColumnAlign.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/RowAlign.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/TileOrientation.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UILayer.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IUIStage.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIStage.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Group.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IUIStage.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIGlobals.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/BasicLayout.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UILayer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/impl/PopUpManagerImpl.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/IPopUpManager.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IUIStage.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIGlobals.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IUIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Rect.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElementContainer.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IInvalidating.ts"
+		],
+		"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/PopUpManager.ts": [
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/IPopUpManager.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/impl/PopUpManagerImpl.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+			"d:/Egret/EgretEngine/win/egret/src/extension/gui/events/PopUpEvent.ts"
+		]
+	},
+	"classNameToPath": {
+		"egret.egret_string_code": "d:/Egret/EgretEngine/win/egret/src/egret/i18n/cn.ts",
+		"__extends": "d:/Egret/EgretEngine/win/egret/src/egret/utils/extends.ts",
+		"egret.Logger": "d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+		"egret.getString": "d:/Egret/EgretEngine/win/egret/src/egret/utils/Logger.ts",
+		"egret.IHashObject": "d:/Egret/EgretEngine/win/egret/src/egret/utils/IHashObject.ts",
+		"egret.HashObject": "d:/Egret/EgretEngine/win/egret/src/egret/utils/HashObject.ts",
+		"egret.Recycler": "d:/Egret/EgretEngine/win/egret/src/egret/utils/Recycler.ts",
+		"egret.__START_TIME": "d:/Egret/EgretEngine/win/egret/src/egret/utils/getTimer.ts",
+		"egret.getTimer": "d:/Egret/EgretEngine/win/egret/src/egret/utils/getTimer.ts",
+		"egret.__callLaterFunctionList": "d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+		"egret.__callLaterThisList": "d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+		"egret.__callLaterArgsList": "d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+		"egret.callLater": "d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+		"egret.__callAsyncFunctionList": "d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+		"egret.__callAsyncThisList": "d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+		"egret.__callAsyncArgsList": "d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+		"egret.__callAsync": "d:/Egret/EgretEngine/win/egret/src/egret/utils/callLater.ts",
+		"egret.RenderCommand": "d:/Egret/EgretEngine/win/egret/src/egret/utils/RenderCommand.ts",
+		"egret.RenderContext": "d:/Egret/EgretEngine/win/egret/src/egret/player/RenderContext.ts",
+		"egret.Event": "d:/Egret/EgretEngine/win/egret/src/egret/events/Event.ts",
+		"egret.HTTPStatusEvent": "d:/Egret/EgretEngine/win/egret/src/egret/events/HTTPStatusEvent.ts",
+		"egret.SoundEvent": "d:/Egret/EgretEngine/win/egret/src/egret/events/SoundEvent.ts",
+		"egret.FocusEvent": "d:/Egret/EgretEngine/win/egret/src/egret/events/FocusEvent.ts",
+		"egret.IOErrorEvent": "d:/Egret/EgretEngine/win/egret/src/egret/events/IOErrorEvent.ts",
+		"egret.TouchEvent": "d:/Egret/EgretEngine/win/egret/src/egret/events/TouchEvent.ts",
+		"egret.TimerEvent": "d:/Egret/EgretEngine/win/egret/src/egret/events/TimerEvent.ts",
+		"egret.TextEvent": "d:/Egret/EgretEngine/win/egret/src/egret/events/TextEvent.ts",
+		"egret.ProgressEvent": "d:/Egret/EgretEngine/win/egret/src/egret/events/ProgressEvent.ts",
+		"egret.EventPhase": "d:/Egret/EgretEngine/win/egret/src/egret/events/EventPhase.ts",
+		"egret.IEventDispatcher": "d:/Egret/EgretEngine/win/egret/src/egret/events/IEventDispatcher.ts",
+		"egret.EventDispatcher": "d:/Egret/EgretEngine/win/egret/src/egret/events/EventDispatcher.ts",
+		"egret.MainContext": "d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+		"testDeviceType": "d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+		"testRuntimeType": "d:/Egret/EgretEngine/win/egret/src/egret/context/MainContext.ts",
+		"egret.Profiler": "d:/Egret/EgretEngine/win/egret/src/egret/utils/Profiler.ts",
+		"egret.Ticker": "d:/Egret/EgretEngine/win/egret/src/egret/context/Ticker.ts",
+		"egret.HorizontalAlign": "d:/Egret/EgretEngine/win/egret/src/egret/layout/HorizontalAlign.ts",
+		"egret.VerticalAlign": "d:/Egret/EgretEngine/win/egret/src/egret/layout/VerticalAlign.ts",
+		"egret.Timer": "d:/Egret/EgretEngine/win/egret/src/egret/utils/Timer.ts",
+		"egret.getQualifiedClassName": "d:/Egret/EgretEngine/win/egret/src/egret/utils/getQualifiedClassName.ts",
+		"egret.getQualifiedSuperclassName": "d:/Egret/EgretEngine/win/egret/src/egret/utils/getQualifiedClassName.ts",
+		"egret.getDefinitionByName": "d:/Egret/EgretEngine/win/egret/src/egret/utils/getDefinitionByName.ts",
+		"__global": "d:/Egret/EgretEngine/win/egret/src/egret/utils/getDefinitionByName.ts",
+		"egret.setTimeout": "d:/Egret/EgretEngine/win/egret/src/egret/utils/setTimeout.ts",
+		"egret.clearTimeout": "d:/Egret/EgretEngine/win/egret/src/egret/utils/setTimeout.ts",
+		"egret.setInterval": "d:/Egret/EgretEngine/win/egret/src/egret/utils/setInterval.ts",
+		"egret.clearInterval": "d:/Egret/EgretEngine/win/egret/src/egret/utils/setInterval.ts",
+		"egret.hasDefinition": "d:/Egret/EgretEngine/win/egret/src/egret/utils/hasDefinition.ts",
+		"egret.toColorString": "d:/Egret/EgretEngine/win/egret/src/egret/utils/toColorString.ts",
+		"egret.Matrix": "d:/Egret/EgretEngine/win/egret/src/egret/geom/Matrix.ts",
+		"egret.Point": "d:/Egret/EgretEngine/win/egret/src/egret/geom/Point.ts",
+		"egret.Rectangle": "d:/Egret/EgretEngine/win/egret/src/egret/geom/Rectangle.ts",
+		"egret.ColorTransform": "d:/Egret/EgretEngine/win/egret/src/egret/geom/ColorTransform.ts",
+		"egret.Transform": "d:/Egret/EgretEngine/win/egret/src/egret/geom/Transform.ts",
+		"egret.SAXParser": "d:/Egret/EgretEngine/win/egret/src/egret/utils/SAXParser.ts",
+		"egret.StageDelegate": "d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+		"egret.ResolutionPolicy": "d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+		"egret.ContainerStrategy": "d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+		"egret.EqualToFrame": "d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+		"egret.ContentStrategy": "d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+		"egret.FixedHeight": "d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+		"egret.FixedWidth": "d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+		"egret.FixedSize": "d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+		"egret.NoScale": "d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+		"egret.ShowAll": "d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+		"egret.FullScreen": "d:/Egret/EgretEngine/win/egret/src/egret/context/StageDelegate.ts",
+		"egret.RenderFilter": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RenderFilter.ts",
+		"egret.RenderData": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RenderFilter.ts",
+		"egret.Injector": "d:/Egret/EgretEngine/win/egret/src/egret/utils/Injector.ts",
+		"egret.Filter": "d:/Egret/EgretEngine/win/egret/src/egret/filters/Filter.ts",
+		"egret.BlurFilter": "d:/Egret/EgretEngine/win/egret/src/egret/filters/BlurFilter.ts",
+		"egret.ColorMatrixFilter": "d:/Egret/EgretEngine/win/egret/src/egret/filters/ColorMatrixFilter.ts",
+		"egret.GlowFilter": "d:/Egret/EgretEngine/win/egret/src/egret/filters/GlowFilter.ts",
+		"egret.DropShadowFilter": "d:/Egret/EgretEngine/win/egret/src/egret/filters/DropShadowFilter.ts",
+		"egret.BlendMode": "d:/Egret/EgretEngine/win/egret/src/egret/display/BlendMode.ts",
+		"egret.DisplayObjectProperties": "d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectProperties.ts",
+		"egret.DisplayObjectPrivateProperties": "d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectPrivateProperties.ts",
+		"egret.DisplayObject": "d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObject.ts",
+		"egret.DisplayObjectContainer": "d:/Egret/EgretEngine/win/egret/src/egret/display/DisplayObjectContainer.ts",
+		"egret.StageScaleMode": "d:/Egret/EgretEngine/win/egret/src/egret/display/StageScaleMode.ts",
+		"egret.Stage": "d:/Egret/EgretEngine/win/egret/src/egret/display/Stage.ts",
+		"egret.ScrollViewProperties": "d:/Egret/EgretEngine/win/egret/src/egret/display/ScrollViewProperties.ts",
+		"egret.ScrollView": "d:/Egret/EgretEngine/win/egret/src/egret/display/ScrollView.ts",
+		"egret.BitmapFillMode": "d:/Egret/EgretEngine/win/egret/src/egret/display/BitmapFillMode.ts",
+		"egret.Bitmap": "d:/Egret/EgretEngine/win/egret/src/egret/display/Bitmap.ts",
+		"egret.BitmapText": "d:/Egret/EgretEngine/win/egret/src/egret/text/BitmapText.ts",
+		"egret.GradientType": "d:/Egret/EgretEngine/win/egret/src/egret/display/GradientType.ts",
+		"egret.Graphics": "d:/Egret/EgretEngine/win/egret/src/egret/display/Graphics.ts",
+		"egret.Command": "d:/Egret/EgretEngine/win/egret/src/egret/display/Graphics.ts",
+		"egret.Shape": "d:/Egret/EgretEngine/win/egret/src/egret/display/Shape.ts",
+		"egret.Sprite": "d:/Egret/EgretEngine/win/egret/src/egret/display/Sprite.ts",
+		"egret.TextFieldUtils": "d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldUtils.ts",
+		"egret.TextFieldProperties": "d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldProperties.ts",
+		"egret.IHitTextElement": "d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+		"egret.ITextStyle": "d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+		"egret.ITextElement": "d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+		"egret.IWTextElement": "d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+		"egret.ILineElement": "d:/Egret/EgretEngine/win/egret/src/egret/text/ITextElement.ts",
+		"egret.TextField": "d:/Egret/EgretEngine/win/egret/src/egret/text/TextField.ts",
+		"egret.HtmlTextParser": "d:/Egret/EgretEngine/win/egret/src/egret/text/HtmlTextParser.ts",
+		"egret.TextFieldType": "d:/Egret/EgretEngine/win/egret/src/egret/text/TextFieldType.ts",
+		"egret.SpriteSheet": "d:/Egret/EgretEngine/win/egret/src/egret/display/SpriteSheet.ts",
+		"egret.InputController": "d:/Egret/EgretEngine/win/egret/src/egret/text/InputController.ts",
+		"egret.BitmapFont": "d:/Egret/EgretEngine/win/egret/src/egret/text/BitmapFont.ts",
+		"egret.MovieClip": "d:/Egret/EgretEngine/win/egret/src/egret/display/MovieClip.ts",
+		"egret.FrameLabel": "d:/Egret/EgretEngine/win/egret/src/egret/display/FrameLabel.ts",
+		"egret.MovieClipData": "d:/Egret/EgretEngine/win/egret/src/egret/display/MovieClipData.ts",
+		"egret.MovieClipDataFactory": "d:/Egret/EgretEngine/win/egret/src/egret/display/MovieClipDataFactory.ts",
+		"egret.StageText": "d:/Egret/EgretEngine/win/egret/src/egret/context/display/StageText.ts",
+		"egret.URLRequestMethod": "d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequestMethod.ts",
+		"egret.URLLoaderDataFormat": "d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoaderDataFormat.ts",
+		"egret.URLVariables": "d:/Egret/EgretEngine/win/egret/src/egret/net/URLVariables.ts",
+		"egret.URLRequestHeader": "d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequestHeader.ts",
+		"egret.URLRequest": "d:/Egret/EgretEngine/win/egret/src/egret/net/URLRequest.ts",
+		"egret.URLLoader": "d:/Egret/EgretEngine/win/egret/src/egret/net/URLLoader.ts",
+		"egret.Texture": "d:/Egret/EgretEngine/win/egret/src/egret/display/Texture.ts",
+		"egret.RenderTexture": "d:/Egret/EgretEngine/win/egret/src/egret/display/RenderTexture.ts",
+		"egret.RendererContext": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/RendererContext.ts",
+		"egret.InteractionMode": "d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/InteractionMode.ts",
+		"egret.TouchContext": "d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/TouchContext.ts",
+		"egret.NetContext": "d:/Egret/EgretEngine/win/egret/src/egret/context/net/NetContext.ts",
+		"egret.DeviceContext": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/DeviceContext.ts",
+		"egret.ExternalInterface": "d:/Egret/EgretEngine/win/egret/src/egret/context/external/ExternalInterface.ts",
+		"egret.Browser": "d:/Egret/EgretEngine/win/egret/src/egret/context/Browser.ts",
+		"egret.localStorage.getItem": "d:/Egret/EgretEngine/win/egret/src/egret/context/localStorage/localStorage.ts",
+		"egret.localStorage.setItem": "d:/Egret/EgretEngine/win/egret/src/egret/context/localStorage/localStorage.ts",
+		"egret.localStorage.removeItem": "d:/Egret/EgretEngine/win/egret/src/egret/context/localStorage/localStorage.ts",
+		"egret.localStorage.clear": "d:/Egret/EgretEngine/win/egret/src/egret/context/localStorage/localStorage.ts",
+		"egret.XML": "d:/Egret/EgretEngine/win/egret/src/egret/utils/XML.ts",
+		"egret.Endian": "d:/Egret/EgretEngine/win/egret/src/egret/utils/ByteArray.ts",
+		"egret.ByteArray": "d:/Egret/EgretEngine/win/egret/src/egret/utils/ByteArray.ts",
+		"egret.getOption": "d:/Egret/EgretEngine/win/egret/src/egret/utils/getOption.ts",
+		"egret.Tween": "d:/Egret/EgretEngine/win/egret/src/egret/tween/Tween.ts",
+		"egret.Ease": "d:/Egret/EgretEngine/win/egret/src/egret/tween/Ease.ts",
+		"egret.IAudio": "d:/Egret/EgretEngine/win/egret/src/egret/media/IAudio.ts",
+		"egret.Sound": "d:/Egret/EgretEngine/win/egret/src/egret/media/Sound.ts",
+		"egret.NumberUtils": "d:/Egret/EgretEngine/win/egret/src/jslib/NumberUtils.ts",
+		"egret_sin_map": "d:/Egret/EgretEngine/win/egret/src/jslib/NumberUtils.ts",
+		"egret_cos_map": "d:/Egret/EgretEngine/win/egret/src/jslib/NumberUtils.ts",
+		"NumberUtils_i": "d:/Egret/EgretEngine/win/egret/src/jslib/NumberUtils.ts",
+		"egret.PromiseObject": "d:/Egret/EgretEngine/win/egret/src/egret/context/PromiseObject.ts",
+		"egret.IVersionController": "d:/Egret/EgretEngine/win/egret/src/egret/context/net/IVersionController.ts",
+		"egret.HTML5DeviceContext": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/HTML5DeviceContext.ts",
+		"egret_html5_localStorage.getItem": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/HTML5DeviceContext.ts",
+		"egret_html5_localStorage.setItem": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/HTML5DeviceContext.ts",
+		"egret_html5_localStorage.removeItem": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/HTML5DeviceContext.ts",
+		"egret_html5_localStorage.clear": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/HTML5DeviceContext.ts",
+		"egret_html5_localStorage.init": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/HTML5DeviceContext.ts",
+		"egret.HTML5CanvasRenderer": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/HTML5CanvasRenderer.ts",
+		"originCanvas2DFill": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/HTML5CanvasRenderer.ts",
+		"egret.IWebGLTemplate": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/IWebGLTemplate.ts",
+		"egret.WebGLRenderer": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.beginFill": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.beginGradientFill": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.drawRect": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.drawCircle": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.drawRoundRect": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.drawEllipse": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.lineStyle": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.lineTo": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.curveTo": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.cubicCurveTo": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.moveTo": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.clear": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.endFill": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics._pushCommand": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics._draw": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.Command": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics._setStyle": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret_webgl_graphics.init": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/WebGLRenderer.ts",
+		"egret.WebGLUtils": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/WebGLUtils.ts",
+		"egret.EgretShader": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/EgretShader.ts",
+		"egret.ColorTransformShader": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/ColorTransformShader.ts",
+		"egret.BlurShader": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/BlurShader.ts",
+		"egret.PrimitiveShader": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/shaders/PrimitiveShader.ts",
+		"egret.WebGLShaderManager": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/webgl/WebGLShaderManager.ts",
+		"egret.HTML5NetContext": "d:/Egret/EgretEngine/win/egret/src/egret/context/net/HTML5NetContext.ts",
+		"egret.HTML5TouchContext": "d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/HTML5TouchContext.ts",
+		"egret.HTML5StageText": "d:/Egret/EgretEngine/win/egret/src/egret/context/display/HTML5StageText.ts",
+		"egret.HTMLInput": "d:/Egret/EgretEngine/win/egret/src/egret/context/display/HTML5StageText.ts",
+		"egret.Html5Audio": "d:/Egret/EgretEngine/win/egret/src/egret/context/audio/Html5Audio.ts",
+		"egret.WebAudio": "d:/Egret/EgretEngine/win/egret/src/egret/context/audio/WebAudio.ts",
+		"AudioBuffer": "d:/Egret/EgretEngine/win/egret/src/egret/context/audio/WebAudio.ts",
+		"AudioBufferSourceNode": "d:/Egret/EgretEngine/win/egret/src/egret/context/audio/WebAudio.ts",
+		"egret.QQAudio": "d:/Egret/EgretEngine/win/egret/src/egret/context/audio/QQAudio.ts",
+		"egret.AudioType": "d:/Egret/EgretEngine/win/egret/src/egret/context/Html5Capatibility.ts",
+		"egret.SystemOSType": "d:/Egret/EgretEngine/win/egret/src/egret/context/Html5Capatibility.ts",
+		"egret.Html5Capatibility": "d:/Egret/EgretEngine/win/egret/src/egret/context/Html5Capatibility.ts",
+		"egret.NativeDeviceContext": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_external_interface.callBackDic": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_external_interface.call": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_external_interface.addCallback": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_external_interface.onReceivedPluginInfo": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_external_interface.init": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.filePath": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.getItem": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.setItem": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.removeItem": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.clear": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.save": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret_native_localStorage.init": "d:/Egret/EgretEngine/win/egret/src/egret/context/devices/NativeDeviceContext.ts",
+		"egret.NativeRendererContext": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/NativeRendererContext.ts",
+		"egret_native_graphics": "d:/Egret/EgretEngine/win/egret/src/egret/context/renderer/NativeRendererContext.ts",
+		"egret.NativeTouchContext": "d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/NativeTouchContext.ts",
+		"egret_native.onTouchesBegin": "d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/NativeTouchContext.ts",
+		"egret_native.onTouchesMove": "d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/NativeTouchContext.ts",
+		"egret_native.onTouchesEnd": "d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/NativeTouchContext.ts",
+		"egret_native.onTouchesCancel": "d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/NativeTouchContext.ts",
+		"egret_native.executeTouchCallback": "d:/Egret/EgretEngine/win/egret/src/egret/context/interactive/NativeTouchContext.ts",
+		"egret.NativeNetContext": "d:/Egret/EgretEngine/win/egret/src/egret/context/net/NativeNetContext.ts",
+		"egret.NativeStageText": "d:/Egret/EgretEngine/win/egret/src/egret/context/display/NativeStageText.ts",
+		"egret.NativeResourceLoader": "d:/Egret/EgretEngine/win/egret/src/egret/context/net/NativeResourceLoader.ts",
+		"egret.NativeAudio": "d:/Egret/EgretEngine/win/egret/src/egret/context/audio/NativeAudio.ts",
+		"egret_native_sound.currentPath": "d:/Egret/EgretEngine/win/egret/src/egret/context/audio/NativeAudio.ts",
+		"egret.NativeVersionController": "d:/Egret/EgretEngine/win/egret/src/extension/oldVersion/NativeVersionController.ts",
+		"RES.ResourceEvent": "d:/Egret/EgretEngine/win/egret/src/extension/resource/events/ResourceEvent.ts",
+		"RES.ResourceItem": "d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceItem.ts",
+		"RES.ResourceConfig": "d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceConfig.ts",
+		"RES.ResourceLoader": "d:/Egret/EgretEngine/win/egret/src/extension/resource/core/ResourceLoader.ts",
+		"RES.AnalyzerBase": "d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/AnalyzerBase.ts",
+		"RES.BinAnalyzer": "d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/BinAnalyzer.ts",
+		"RES.ImageAnalyzer": "d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/ImageAnalyzer.ts",
+		"RES.JsonAnalyzer": "d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/JsonAnalyzer.ts",
+		"RES.TextAnalyzer": "d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/TextAnalyzer.ts",
+		"RES.SheetAnalyzer": "d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/SheetAnalyzer.ts",
+		"RES.FontAnalyzer": "d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/FontAnalyzer.ts",
+		"RES.SoundAnalyzer": "d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/SoundAnalyzer.ts",
+		"RES.XMLAnalyzer": "d:/Egret/EgretEngine/win/egret/src/extension/resource/analyzer/XMLAnalyzer.ts",
+		"RES.loadConfig": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.loadGroup": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.isGroupLoaded": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.getGroupByName": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.createGroup": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.hasRes": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.parseConfig": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.getRes": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.getResAsync": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.getResByUrl": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.destroyRes": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.setMaxLoadingThread": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.setMaxRetryTimes": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.addEventListener": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.removeEventListener": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"RES.Resource": "d:/Egret/EgretEngine/win/egret/src/extension/resource/Resource.ts",
+		"egret.gui.ICollection": "d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ICollection.ts",
+		"egret.gui.ArrayCollection": "d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ArrayCollection.ts",
+		"egret.gui.ITreeCollection": "d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ITreeCollection.ts",
+		"egret.gui.ObjectCollection": "d:/Egret/EgretEngine/win/egret/src/extension/gui/collections/ObjectCollection.ts",
+		"egret.gui.LayoutManager": "d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/LayoutManager.ts",
+		"egret.gui.DepthQueue": "d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/layoutClass/DepthQueue.ts",
+		"egret.gui.DepthBin": "d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/layoutClass/DepthQueue.ts",
+		"egret.gui.IAssetAdapter": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IAssetAdapter.ts",
+		"egret.gui.IContainer": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IContainer.ts",
+		"egret.gui.IDisplayText": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IDisplayText.ts",
+		"egret.gui.IEditableText": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IEditableText.ts",
+		"egret.gui.IFactory": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IFactory.ts",
+		"egret.gui.IInvalidateDisplay": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IInvalidateDisplay.ts",
+		"egret.gui.IInvalidating": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IInvalidating.ts",
+		"egret.gui.ILayoutElement": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ILayoutElement.ts",
+		"egret.gui.ISkin": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ISkin.ts",
+		"egret.gui.ISkinAdapter": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ISkinAdapter.ts",
+		"egret.gui.ISkinnableClient": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ISkinnableClient.ts",
+		"egret.gui.IStateClient": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStateClient.ts",
+		"egret.gui.IStyleClient": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IStyleClient.ts",
+		"egret.gui.IUIComponent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IUIComponent.ts",
+		"egret.gui.IUIStage": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IUIStage.ts",
+		"egret.gui.IViewport": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IViewport.ts",
+		"egret.gui.IViewStack": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IViewStack.ts",
+		"egret.gui.IVisualElement": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElement.ts",
+		"egret.gui.IVisualElementContainer": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/IVisualElementContainer.ts",
+		"egret.gui.ILayoutManagerClient": "d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/ILayoutManagerClient.ts",
+		"egret.gui.IPopUpManager": "d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/IPopUpManager.ts",
+		"egret.gui.UIGlobals": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIGlobals.ts",
+		"egret.gui.UIComponentProperties": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponentProperties.ts",
+		"egret.gui.UIComponent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIComponent.ts",
+		"egret.gui.PopUpPosition": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/PopUpPosition.ts",
+		"egret.gui.ScrollPolicy": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ScrollPolicy.ts",
+		"egret.gui.ClassFactory": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/ClassFactory.ts",
+		"egret.gui.NavigationUnit": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/NavigationUnit.ts",
+		"egret.gui.IOverride": "d:/Egret/EgretEngine/win/egret/src/extension/gui/states/IOverride.ts",
+		"egret.gui.OverrideBase": "d:/Egret/EgretEngine/win/egret/src/extension/gui/states/OverrideBase.ts",
+		"egret.gui.AddItems": "d:/Egret/EgretEngine/win/egret/src/extension/gui/states/AddItems.ts",
+		"egret.gui.SetProperty": "d:/Egret/EgretEngine/win/egret/src/extension/gui/states/SetProperty.ts",
+		"egret.gui.SetStyle": "d:/Egret/EgretEngine/win/egret/src/extension/gui/states/SetStyle.ts",
+		"egret.gui.State": "d:/Egret/EgretEngine/win/egret/src/extension/gui/states/State.ts",
+		"egret.gui.LayoutUtil": "d:/Egret/EgretEngine/win/egret/src/extension/gui/utils/LayoutUtil.ts",
+		"egret.gui.getScale9Grid": "d:/Egret/EgretEngine/win/egret/src/extension/gui/utils/getScale9Grid.ts",
+		"egret.gui.setProperties": "d:/Egret/EgretEngine/win/egret/src/extension/gui/utils/setProperties.ts",
+		"egret.gui.IEaser": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/IEaser.ts",
+		"egret.gui.EaseInOutBase": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/EaseInOutBase.ts",
+		"egret.gui.Bounce": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/Bounce.ts",
+		"egret.gui.Elastic": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/Elastic.ts",
+		"egret.gui.Linear": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/Linear.ts",
+		"egret.gui.Power": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/Power.ts",
+		"egret.gui.Sine": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/easing/Sine.ts",
+		"egret.gui.IEffect": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffect.ts",
+		"egret.gui.IEffectInstance": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/IEffectInstance.ts",
+		"egret.gui.IInterpolator": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/interpolation/IInterpolator.ts",
+		"egret.gui.NumberInterpolator": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/interpolation/NumberInterpolator.ts",
+		"egret.gui.RepeatBehavior": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/RepeatBehavior.ts",
+		"egret.gui.Keyframe": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Keyframe.ts",
+		"egret.gui.MotionPath": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/MotionPath.ts",
+		"egret.gui.SimpleMotionPath": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/SimpleMotionPath.ts",
+		"egret.gui.Animation": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/animation/Animation.ts",
+		"egret.gui.EffectInstance": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/EffectInstance.ts",
+		"egret.gui.TransformUtil": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/TransformUtil.ts",
+		"egret.gui.CompositeEffectInstance": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/CompositeEffectInstance.ts",
+		"egret.gui.ParallelInstance": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/ParallelInstance.ts",
+		"egret.gui.SequenceInstance": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/SequenceInstance.ts",
+		"egret.gui.AnimateInstance": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/AnimateInstance.ts",
+		"egret.gui.AnimateTransformInstance": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/AnimateTransformInstance.ts",
+		"egret.gui.FadeInstance": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/effectClasses/FadeInstance.ts",
+		"egret.gui.Effect": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Effect.ts",
+		"egret.gui.CompositeEffect": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/CompositeEffect.ts",
+		"egret.gui.Parallel": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Parallel.ts",
+		"egret.gui.Sequence": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Sequence.ts",
+		"egret.gui.Animate": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Animate.ts",
+		"egret.gui.AnimateTransform": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/AnimateTransform.ts",
+		"egret.gui.Move": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Move.ts",
+		"egret.gui.Rotate": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Rotate.ts",
+		"egret.gui.Scale": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Scale.ts",
+		"egret.gui.Fade": "d:/Egret/EgretEngine/win/egret/src/extension/gui/effect/Fade.ts",
+		"egret.gui.InterruptionBehavior": "d:/Egret/EgretEngine/win/egret/src/extension/gui/states/InterruptionBehavior.ts",
+		"egret.gui.Transition": "d:/Egret/EgretEngine/win/egret/src/extension/gui/states/Transition.ts",
+		"egret.gui.IItemRenderer": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRenderer.ts",
+		"egret.gui.IItemRendererOwner": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/IItemRendererOwner.ts",
+		"egret.gui.ITreeItemRenderer": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ITreeItemRenderer.ts",
+		"egret.gui.UIAsset": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/UIAsset.ts",
+		"egret.gui.SkinnableComponent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableComponent.ts",
+		"egret.gui.DefaultSkinAdapter": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DefaultSkinAdapter.ts",
+		"egret.gui.DefaultAssetAdapter": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DefaultAssetAdapter.ts",
+		"egret.gui.Theme": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/Theme.ts",
+		"egret.gui.SkinBasicLayout": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/SkinBasicLayout.ts",
+		"egret.gui.ButtonBase": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ButtonBase.ts",
+		"egret.gui.ToggleButtonBase": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ToggleButtonBase.ts",
+		"egret.gui.TextBase": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/TextBase.ts",
+		"egret.gui.GroupBase": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/GroupBase.ts",
+		"egret.gui.ItemRenderer": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ItemRenderer.ts",
+		"egret.gui.TreeItemRenderer": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/TreeItemRenderer.ts",
+		"egret.gui.Range": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/Range.ts",
+		"egret.gui.TrackBase": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/TrackBase.ts",
+		"egret.gui.SliderBase": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/SliderBase.ts",
+		"egret.gui.SkinnableTextBase": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/SkinnableTextBase.ts",
+		"egret.gui.Spacer": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Spacer.ts",
+		"egret.gui.Label": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Label.ts",
+		"egret.gui.BitmapLabel": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/BitmapLabel.ts",
+		"egret.gui.Rect": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Rect.ts",
+		"egret.gui.Button": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Button.ts",
+		"egret.gui.ToggleSwitch": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ToggleSwitch.ts",
+		"egret.gui.ToggleButton": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ToggleButton.ts",
+		"egret.gui.CheckBox": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/CheckBox.ts",
+		"egret.gui.RadioButtonGroup": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/RadioButtonGroup.ts",
+		"egret.gui.RadioButton": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/RadioButton.ts",
+		"egret.gui.Group": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Group.ts",
+		"egret.gui.ViewStack": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ViewStack.ts",
+		"egret.gui.Skin": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Skin.ts",
+		"egret.gui.ButtonSkin": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ButtonSkin.ts",
+		"egret.gui.DataGroup": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/DataGroup.ts",
+		"egret.gui.SkinnableContainer": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableContainer.ts",
+		"egret.gui.SkinnableDataContainer": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/SkinnableDataContainer.ts",
+		"egret.gui.ListBase": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/ListBase.ts",
+		"egret.gui.Panel": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Panel.ts",
+		"egret.gui.TitleWindow": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/TitleWindow.ts",
+		"egret.gui.Alert": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Alert.ts",
+		"egret.gui.ProgressBar": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ProgressBar.ts",
+		"egret.gui.ProgressBarDirection": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ProgressBarDirection.ts",
+		"egret.gui.HSlider": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/HSlider.ts",
+		"egret.gui.HScrollBar": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/HScrollBar.ts",
+		"egret.gui.VSlider": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/VSlider.ts",
+		"egret.gui.VScrollBar": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/VScrollBar.ts",
+		"egret.gui.List": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/List.ts",
+		"egret.gui.PopUpAnchor": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/PopUpAnchor.ts",
+		"egret.gui.DropDownController": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DropDownController.ts",
+		"egret.gui.DropDownListBase": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/supportClasses/DropDownListBase.ts",
+		"egret.gui.Tree": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Tree.ts",
+		"egret.gui.DropDownList": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/DropDownList.ts",
+		"egret.gui.TabBarButton": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/TabBarButton.ts",
+		"egret.gui.TabBar": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/TabBar.ts",
+		"egret.gui.ScrollerProperties": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/ScrollerProperties.ts",
+		"egret.gui.Scroller": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/Scroller.ts",
+		"egret.gui.EditableText": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/EditableText.ts",
+		"egret.gui.TextArea": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/TextArea.ts",
+		"egret.gui.TextInput": "d:/Egret/EgretEngine/win/egret/src/extension/gui/components/TextInput.ts",
+		"egret.gui.UIEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/UIEvent.ts",
+		"egret.gui.PropertyChangeEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/PropertyChangeEvent.ts",
+		"egret.gui.PropertyChangeEventKind": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/PropertyChangeEventKind.ts",
+		"egret.gui.MoveEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/MoveEvent.ts",
+		"egret.gui.ResizeEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ResizeEvent.ts",
+		"egret.gui.SkinPartEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/SkinPartEvent.ts",
+		"egret.gui.CloseEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CloseEvent.ts",
+		"egret.gui.CollectionEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEvent.ts",
+		"egret.gui.CollectionEventKind": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/CollectionEventKind.ts",
+		"egret.gui.ElementExistenceEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ElementExistenceEvent.ts",
+		"egret.gui.IndexChangeEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/IndexChangeEvent.ts",
+		"egret.gui.ListEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/ListEvent.ts",
+		"egret.gui.PopUpEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/PopUpEvent.ts",
+		"egret.gui.RendererExistenceEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/RendererExistenceEvent.ts",
+		"egret.gui.StateChangeEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/StateChangeEvent.ts",
+		"egret.gui.TrackBaseEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/TrackBaseEvent.ts",
+		"egret.gui.TreeEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/TreeEvent.ts",
+		"egret.gui.EffectEvent": "d:/Egret/EgretEngine/win/egret/src/extension/gui/events/EffectEvent.ts",
+		"egret.gui.LayoutBase": "d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/supportClasses/LayoutBase.ts",
+		"egret.gui.BasicLayout": "d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/BasicLayout.ts",
+		"egret.gui.ColumnAlign": "d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/ColumnAlign.ts",
+		"egret.gui.RowAlign": "d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/RowAlign.ts",
+		"egret.gui.TileOrientation": "d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/TileOrientation.ts",
+		"egret.gui.VerticalLayout": "d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/VerticalLayout.ts",
+		"egret.gui.ChildInfo": "d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/HorizontalLayout.ts",
+		"egret.gui.HorizontalLayout": "d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/HorizontalLayout.ts",
+		"egret.gui.TileLayout": "d:/Egret/EgretEngine/win/egret/src/extension/gui/layouts/TileLayout.ts",
+		"egret.gui.UILayer": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UILayer.ts",
+		"egret.gui.UIStage": "d:/Egret/EgretEngine/win/egret/src/extension/gui/core/UIStage.ts",
+		"egret.gui.PopUpManagerImpl": "d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/impl/PopUpManagerImpl.ts",
+		"egret.gui.PopUpData": "d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/impl/PopUpManagerImpl.ts",
+		"egret.gui.PopUpManager": "d:/Egret/EgretEngine/win/egret/src/extension/gui/managers/PopUpManager.ts"
+	}
+}
