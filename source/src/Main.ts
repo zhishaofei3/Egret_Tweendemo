@@ -59,20 +59,16 @@ class Main extends egret.DisplayObjectContainer {
 		var x_:number = this.xSlider.getValue();
 		var y_:number = this.ySlider.getValue();
 		var scaleX_:number = this.scaleXSlider.getValue() / 100;
-		;
 		var scaleY_:number = this.scaleYSlider.getValue() / 100;
-		;
 		var rotation_:number = this.rotationSlider.getValue();
 		var alpha_:number = this.alphaSlider.getValue() / 100;
 
 		var obj:Object = {x: this.jian_png.x + x_, y: this.jian_png.y + y_, alpha: alpha_, rotation: rotation_, scaleX: scaleX_, scaleY: scaleY_};
 		//等同 egret.Tween.get(this.jian_png, { loop: isloop }).to({ x: x_, y:y_, alpha: alpha_, rotation: rotation_, scaleX: scaleX_, scaleY: scaleY_ }, duration, ease).wait(waited);
-		if (this.callCheckBox.selected)//有回调方法
-		{
+		if (this.callCheckBox.selected) { //有回调方法
 			egret.Tween.get(this.jian_png, {loop: false}).to(obj, duration, ease).wait(waited).call(this.tweenComplete, this, ["tweenComplete", "param2", "param3"]);
 		}
-		else //没有回调方法
-		{
+		else { //没有回调方法
 			egret.Tween.get(this.jian_png, {loop: isloop}).to(obj, duration, ease).wait(waited);
 		}
 	}
